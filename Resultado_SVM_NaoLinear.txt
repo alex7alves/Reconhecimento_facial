@@ -1,0 +1,235 @@
+Dataset: 1 Tipo: 70_30
+Matriz Confusão:
+[[137  13]
+ [  0 150]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.913333  0.954704       150
+           1   0.920245  1.000000  0.958466       150
+
+    accuracy                       0.956667       300
+   macro avg   0.960123  0.956667  0.956585       300
+weighted avg   0.960123  0.956667  0.956585       300
+
+Dataset: 1 Tipo: 60_40
+Matriz Confusão:
+[[185  14]
+ [  0 200]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.929648  0.963542       199
+           1   0.934579  1.000000  0.966184       200
+
+    accuracy                       0.964912       399
+   macro avg   0.967290  0.964824  0.964863       399
+weighted avg   0.967208  0.964912  0.964866       399
+
+Dataset: 1 Tipo: 50_50
+Matriz Confusão:
+[[235  14]
+ [  0 250]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.943775  0.971074       249
+           1   0.946970  1.000000  0.972763       250
+
+    accuracy                       0.971944       499
+   macro avg   0.973485  0.971888  0.971919       499
+weighted avg   0.973432  0.971944  0.971920       499
+
+Dataset: 1 Tipo: 10-fold cv
+Resultado:
+[0.989999   0.979992   0.989999   0.96997298 0.9599359  0.979992
+ 0.96997298 0.93908942 0.97977941 0.96964742]
+0.9728380091029288
+Dataset: 2 Tipo: 70_30
+Matriz Confusão:
+[[146   4]
+ [  0 150]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.973333  0.986486       150
+           1   0.974026  1.000000  0.986842       150
+
+    accuracy                       0.986667       300
+   macro avg   0.987013  0.986667  0.986664       300
+weighted avg   0.987013  0.986667  0.986664       300
+
+Dataset: 2 Tipo: 60_40
+Matriz Confusão:
+[[193   7]
+ [  0 200]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.965000  0.982188       200
+           1   0.966184  1.000000  0.982801       200
+
+    accuracy                       0.982500       400
+   macro avg   0.983092  0.982500  0.982495       400
+weighted avg   0.983092  0.982500  0.982495       400
+
+Dataset: 2 Tipo: 50_50
+Matriz Confusão:
+[[238  12]
+ [  0 250]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.952000  0.975410       250
+           1   0.954198  1.000000  0.976562       250
+
+    accuracy                       0.976000       500
+   macro avg   0.977099  0.976000  0.975986       500
+weighted avg   0.977099  0.976000  0.975986       500
+
+Dataset: 2 Tipo: 10-fold cv
+Resultado:
+[0.989999   0.989999   0.96997298 1.         0.94987469 0.979992
+ 0.989999   0.979992   0.96997298 0.97977941]
+0.9799581043135129
+Dataset: 3 Tipo: 70_30
+Matriz Confusão:
+[[139  11]
+ [  0 150]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.926667  0.961938       150
+           1   0.931677  1.000000  0.964630       150
+
+    accuracy                       0.963333       300
+   macro avg   0.965839  0.963333  0.963284       300
+weighted avg   0.965839  0.963333  0.963284       300
+
+Dataset: 3 Tipo: 60_40
+Matriz Confusão:
+[[186  14]
+ [  0 200]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.930000  0.963731       200
+           1   0.934579  1.000000  0.966184       200
+
+    accuracy                       0.965000       400
+   macro avg   0.967290  0.965000  0.964957       400
+weighted avg   0.967290  0.965000  0.964957       400
+
+Dataset: 3 Tipo: 50_50
+Matriz Confusão:
+[[233  17]
+ [  0 250]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.932000  0.964803       250
+           1   0.936330  1.000000  0.967118       250
+
+    accuracy                       0.966000       500
+   macro avg   0.968165  0.966000  0.965961       500
+weighted avg   0.968165  0.966000  0.965961       500
+
+Dataset: 3 Tipo: 10-fold cv
+Resultado:
+[1.         0.92965531 0.989999   0.96997298 0.9599359  0.96997298
+ 0.96997298 1.         0.989999   0.989999  ]
+0.9769507135194215
+Dataset: 4 Tipo: 70_30
+Matriz Confusão:
+[[145   5]
+ [  0 150]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.966667  0.983051       150
+           1   0.967742  1.000000  0.983607       150
+
+    accuracy                       0.983333       300
+   macro avg   0.983871  0.983333  0.983329       300
+weighted avg   0.983871  0.983333  0.983329       300
+
+Dataset: 4 Tipo: 60_40
+Matriz Confusão:
+[[193   7]
+ [  0 200]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.965000  0.982188       200
+           1   0.966184  1.000000  0.982801       200
+
+    accuracy                       0.982500       400
+   macro avg   0.983092  0.982500  0.982495       400
+weighted avg   0.983092  0.982500  0.982495       400
+
+Dataset: 4 Tipo: 50_50
+Matriz Confusão:
+[[240  10]
+ [  0 250]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.960000  0.979592       250
+           1   0.961538  1.000000  0.980392       250
+
+    accuracy                       0.980000       500
+   macro avg   0.980769  0.980000  0.979992       500
+weighted avg   0.980769  0.980000  0.979992       500
+
+Dataset: 4 Tipo: 10-fold cv
+Resultado:
+[0.96997298 0.9599359  0.979992   0.979992   0.94987469 0.96997298
+ 0.96997298 1.         0.989999   1.        ]
+0.9769712504684449
+Dataset: 5 Tipo: 70_30
+Matriz Confusão:
+[[137  13]
+ [  0 150]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.913333  0.954704       150
+           1   0.920245  1.000000  0.958466       150
+
+    accuracy                       0.956667       300
+   macro avg   0.960123  0.956667  0.956585       300
+weighted avg   0.960123  0.956667  0.956585       300
+
+Dataset: 5 Tipo: 60_40
+Matriz Confusão:
+[[186  14]
+ [  0 200]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.930000  0.963731       200
+           1   0.934579  1.000000  0.966184       200
+
+    accuracy                       0.965000       400
+   macro avg   0.967290  0.965000  0.964957       400
+weighted avg   0.967290  0.965000  0.964957       400
+
+Dataset: 5 Tipo: 50_50
+Matriz Confusão:
+[[229  21]
+ [  0 250]]
+Relatório:
+              precision    recall  f1-score   support
+
+           0   1.000000  0.916000  0.956159       250
+           1   0.922509  1.000000  0.959693       250
+
+    accuracy                       0.958000       500
+   macro avg   0.961255  0.958000  0.957926       500
+weighted avg   0.961255  0.958000  0.957926       500
+
+Dataset: 5 Tipo: 10-fold cv
+Resultado:
+[0.9599359  0.979992   0.979992   0.96997298 0.979992   0.94987469
+ 0.979992   0.989999   0.94987469 0.9599359 ]
+0.9699561131078356
